@@ -1,0 +1,6 @@
+##ignore this file##
+/build/
+##filter##
+
+##class file##
+*.o
